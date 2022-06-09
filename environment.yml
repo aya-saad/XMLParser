@@ -1,0 +1,13 @@
+name: aquagraph
+channels:
+  - conda-forge 
+  - defaults
+  
+dependencies:
+  - numpy
+  - py2neo
+  - neotime
+  - monotonic
+  - packaging
+  - neo4j-python-driver
+  - tqdm
